@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Proyecto desarrollado en Webpack, HTML y CSS.
+Proyecto desarrollado en Webpack JS, HTML y CSS.
 Lista de tareas basica.
 Funciones:
 -Agregar tarea.

@@ -1,13 +1,23 @@
 # Webpack Starter
 
-Proyecto inicial para usar Webpack.
+Proyecto desarrollado en Webpack, HTML y CSS.
+Lista de tareas basica.
+Funciones:
+-Agregar tarea.
+-Marcar tarea completada.
+-Filtro pendientes y completados.
+-Eliminar tarea.
+
 
 ### Notes:
++Publicado en:
+https://mgrippo11.github.io/ListaDeTareas-JS/#/
 
-reconstruir los modulos de node.
++reconstruir los modulos de node.
 
 npm install
 ******************************
-reconstruir los build
++Iniciar App
 
 npm run buils
+******************************

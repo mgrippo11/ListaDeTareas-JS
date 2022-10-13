@@ -11,7 +11,7 @@ Funciones:
 
 ### Notes:
 +Publicado en:
-https://mgrippo11.github.io/ListaDeTareas-JS/#/
+https://mgrippo11.github.io/ListaDeTareas-JS/
 
 +reconstruir los modulos de node.
 
